@@ -51,4 +51,4 @@
 -----
 
 # License
-`Kakao-Rpg` license is under the [LGPL 3.0](https://github.com/sungbin5304/Kakao-Rpg/blob/master/LICENSE) license.
+`Kakao-Rpg` license is under the [GPL 3.0](https://github.com/sungbin5304/Kakao-Rpg/blob/master/LICENSE) license.
